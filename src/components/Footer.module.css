@@ -1,0 +1,14 @@
+.Footer{
+    width: 100%;
+    background-color: rgb(255, 215, 0);
+    position: sticky;
+    bottom: 0;
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+.item{
+    margin: 50px;
+}

@@ -1,0 +1,35 @@
+.formContainer{
+ color: aliceblue;
+ width: 500px;
+ border-radius: 10px;
+ margin:0 auto;
+ box-shadow: 0 4px 6px rgb(0,0,0,0.2);
+ padding: 20px;
+ margin-top: 50px;
+
+}
+.input{
+    width: 100%;
+    display: block;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding: 10px 20px;
+}
+input:focus{
+    outline: 0;
+}
+.addButton{
+    display: inline-block;
+    padding: 12px 20px;
+    color: white;
+    background-color: gold;
+   border: 0;
+   border-radius: 6px;
+   cursor: pointer;
+   margin-right: 10px;
+}
+.container{
+   display: flex;
+}

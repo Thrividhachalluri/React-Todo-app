@@ -1,0 +1,32 @@
+.TodoItem{
+    background-color: white;
+    
+    border-radius:10px;
+    width:500px;
+    font-size: 20px;
+    color: black;
+    margin: 0 auto;
+
+}
+.item{
+    
+    font-weight: bold;
+    padding: 20px;
+}
+.line{
+border: 1px solid whitesmoke;
+}
+.deleteButton{
+float: right;
+padding: 12px 20px;
+background-color: gold;
+border: none;
+color: white;
+border-radius: 4px;
+margin-top: -5px;
+cursor: pointer;
+
+}
+.completed{
+    text-decoration: line-through;
+}
